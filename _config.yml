@@ -17,11 +17,15 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "Site Title"
+title                    : "PagePilot"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "Charles Rieder"
+description              : "PagePilot is a powerful and intuitive application designed to simplify the management of your Facebook Pages. With advanced features like automated comment replies, post scheduling, and streamlined page management, PagePilot empowers you to stay connected with your audience while saving time.
+
+Our app integrates seamlessly with the Facebook API, providing secure access to page comments, messages, and scheduling tools. Whether you're managing a single page or multiple, PagePilot's clean interface and smart automation tools help you handle everything efficiently. From real-time audience engagement to crafting a consistent posting schedule, PagePilot ensures your online presence is optimized for growth.
+
+Perfect for social media managers, businesses, and influencers, PagePilot makes managing Facebook Pages effortless."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -113,39 +117,39 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Charles Rieder"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "PagePilot is your ultimate tool for managing Facebook Pages with ease and efficiency. Designed for businesses, influencers, and social media managers, PagePilot specializes in automating replies to comments, scheduling posts, and streamlining engagement. With a focus on security, reliability, and user-friendly features, PagePilot helps you save time, grow your audience, and maintain a professional online presence—all from one smart platform."
   location         : "Somewhere"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
+      url: "mailto:charlesrieder@gmail.com"
+    - # label: "Website"
+      # icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
+    - # label: "Twitter"
+      # icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
+    - # label: "Facebook"
+      # icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
+    - # label: "GitHub"
+      # icon: "fab fa-fw fa-github"
       # url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
+    - # label: "Instagram"
+      # icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
 
 # Site Footer
-footer:
-  links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
+# footer:
+  # links:
+    - # label: "Twitter"
+     # icon: "fab fa-fw fa-twitter-square"
       # url:
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
+    - # label: "Facebook"
+      # icon: "fab fa-fw fa-facebook-square"
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
@@ -156,8 +160,8 @@ footer:
     - label: "Bitbucket"
       icon: "fab fa-fw fa-bitbucket"
       # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
+    - # label: "Instagram"
+      # icon: "fab fa-fw fa-instagram"
       # url:
 
 
