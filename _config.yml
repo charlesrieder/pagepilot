@@ -20,7 +20,7 @@ rtl                      : # true, false (default) # turns direction of the page
 title                    : "PagePilot"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Charles Rieder"
+name                     : "Description"
 description              : "PagePilot is a powerful and intuitive application designed to simplify the management of your Facebook Pages. With advanced features like automated comment replies, post scheduling, and streamlined page management, PagePilot empowers you to stay connected with your audience while saving time.
 
 Our app integrates seamlessly with the Facebook API, providing secure access to page comments, messages, and scheduling tools. Whether you're managing a single page or multiple, PagePilot's clean interface and smart automation tools help you handle everything efficiently. From real-time audience engagement to crafting a consistent posting schedule, PagePilot ensures your online presence is optimized for growth.
